@@ -9,5 +9,15 @@
     <title>Rock In The Road</title>
   </head>
   <body class='rock-body'>
+    <header>
+      <nav class='navbar navbar-inverse navbar-fixed-top affix-top'>
+        <a href="#"><img class='logo-img' src='img/rock_logo.jpg'/></a>
+        <div class='redes-sociales'>
+          <a href="#"><img class='img-rounded img-social' src='img/fb.png'/></a>
+          <a href="#"><img class='img-rounded img-social' src='img/ig.png'/></a>
+          <a href="#"><img class='img-rounded img-social' src='img/tt.png'/></a>
+        </div>
+      </nav>
+    </header>
   </body>
 </html>
