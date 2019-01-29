@@ -19,5 +19,25 @@
         </div>
       </nav>
     </header>
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 principal">
+      <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+      <a href="#"><h6 class="barra">INICIO</h6></a>
+      </div>
+      <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+      <a href="#"><h6 class="barra">ARTISTAS</h6></a>
+      </div>
+      <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+      <a href="#"><h6 class="barra">GRUPOS</h6></a>
+      </div>
+      <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+      <a href="#"><h6 class="barra">TOP 10</h6></a>
+      </div>
+      <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+      <a href="#"><h6 class="barra">LETRAS</h6></a>
+      </div>
+      <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+      <a href="#"><h6 class="barra">ACORDES</h6></a>
+    </div>
+  </div>
   </body>
 </html>
