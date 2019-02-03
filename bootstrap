@@ -48,7 +48,41 @@
               <h2 class='text-uppercase welcome-title'>ROCK IN THE ROAD</h2>
               <div class='secundaria-text'>Tu blog musical</div>
             </div>
-          </div>
-  </div>
+          </div>       
+        </div>
+          <div class='titulo-rock'>
+          <header class='titulo-text text-capitalize text-center'>Últimas informaciones rockeras</header>
+        </div>
+      </div>
+      <div class='row music-row'>
+      <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 left-column music-column">
+        <header class="titulo-text text-center">Papa Roach lanza nuevo disco y anuncia gira con Shinedown y Asking Alexandria</header>
+        <div class="col-xs-3 col-sm-4 col-md-4 col-lg-4"><img class="img-music" src="img/paparoach.jpg"></div>
+        <div class="col-xs-9 col-sm-8 col-md-8 col-lg-8">
+        <p class="publi-1 justify">El grupo liderado por Jacoby Shadixx publica un disco nuevo despúes de dos años. El álbum se llama <em>Who Do You Trust</em>, material que pareciera volver a los orígenes de la banda californiana, desmarcándose de lo que fue su trabajo anterior <em>Crooked Teeth</em> (2017) que no tuvo el éxito esperado</p> <p class="publi-1">Además de un par de conciertos en solitario, los autores de <em>Last Resort</em> harán una gira por Estados Unidos junto a Shinedown y Asking Alexandria. A  continuación, el calendario de las presentaciones que brindarán estos conjuntos.</p>
+      </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+          <ul>
+            <li><p class="publi-1">Feb 20, 2019 – Estero, FL – Hertz Arena</p></li>
+            <li><p class="publi-1">Feb 22, 2019 – Fayetteville, NC – Crown Complex</p></li>
+            <li><p class="publi-1">Feb 23, 2019 – Knoxville, TN – Civic Coliseum</p></li>
+            <li><p class="publi-1">Feb 24, 2019 – Huntington, WV – Big Sandy Superstore Arena</p></li>
+            <li><p class="publi-1">Feb 26, 2019 – Dayton, OH – Nutter Center</p></li>
+            <li><p class="publi-1">Feb 28, 2019 – Baltimore, MD – UMBC Fieldhouse</p></li>
+            <li><p class="publi-1">Mar 1, 2019 – Hershey, PA – GIANT Center</p></li>
+            <li><p class="publi-1">Mar 2, 2019 – Uncasville, CT – Mohegan Sun Arena</p></li>
+            <li><p class="publi-1">Mar 5, 2019 – Youngstown, OH – Covelli Centre</p></li>
+            <li><p class="publi-1">Mar 7, 2018 – Ft. Wayne, IN – War Memorial Coliseum</p></li>
+            <li><p class="publi-1">Mar 8, 2019 – Milwaukee, WI – Fiserv Forum</p></li>
+            <li><p class="publi-1">Mar 9, 2019 – Green Bay, WI – Brown County Arena</p></li>
+            <li><p class="publi-1">Mar 11, 2019 – Minneapolis, MN – Target Center</p></li>
+            <li><p class="publi-1">Mar 12, 2019 – Fargo, ND – FargoDome</p></li>
+            <li><p class="publi-1">Mar 15, 2019 – Lincoln, NE – Pinnacle Bank Center</p></li>
+            <li><p class="publi-1">Mar 16, 2019 – Cedar Rapids, IA – US Cellular Center</p></li>
+            <li><p class="publi-1">Mar 17, 2019 – St. Louis, MO – Chaifetz Arena</p></li>
+            <li><p class="publi-1">18 Mar 19, 2019 – Wichita, KS – INTRUST Bank Arena</p></li>
+            <li><p class="publi-1">19 Mar 20, 2019 – Loveland, CO – Budweiser Gardens</p></li>
+          </ul>
+        </div>
   </body>
 </html>
