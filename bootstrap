@@ -39,5 +39,16 @@
       <a href="#"><h6 class="barra">ACORDES</h6></a>
     </div>
   </div>
+      <div class='container-fluid'>
+       <div class='row'>
+        <div class='secundaria'>
+          <div class='row'>
+            <div class='col-xs-4 col-sm-4 col-md-4 col-lg-4'></div>
+            <div class='col-xs-8 col-sm-8 col-md-8 col-lg-8 text-center'>
+              <h2 class='text-uppercase welcome-title'>ROCK IN THE ROAD</h2>
+              <div class='secundaria-text'>Tu blog musical</div>
+            </div>
+          </div>
+  </div>
   </body>
 </html>
