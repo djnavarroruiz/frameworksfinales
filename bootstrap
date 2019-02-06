@@ -84,5 +84,36 @@
             <li><p class="publi-1">19 Mar 20, 2019 – Loveland, CO – Budweiser Gardens</p></li>
           </ul>
         </div>
+          <div class="form-group col-xs-12 col-sm-12 col-md-12 col-lg-12">
+          <label for="Comentario"><p class="publi-1">Puedes dejar aquí tus comentarios</p></label>
+          <textarea name="comentario" rows="2" cols="40" class="form-control"></textarea>
+         </div>
+      </div>
+      <div class="music-column col-md-4 col-lg-4 right-column">
+       <div class="form-group col-xs-6 col-sm-6 col-md-8 col-lg-8 col-lg-offset-2">
+         <header class="titulo-text text-center">Prueba con nuestra búsqueda avanzada</header>
+         <div class="input-group input-group-sm hidden-xs hidden-sm">
+<span class="input-group-addon glyphicon glyphicon-search"></span>
+<input type="text" class="form-control input-group-addon glyphicon glyphicon-search">
+</div>
+         </div>
+         <div class="music column col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <header class="titulo-text text-center">Te sugerimos...</header>
+      </div>
+        <div class="music column col-xs-12 col-sm-12 col-md-12 col-lg-12 col-lg-12">
+          <ul class="list-inline">
+            <a href="#"><li><p class="publi-1 text-center">Rock/Metal Clásico</p></li></a></br>
+            <a href="#"><li><p class="publi-1 text-center">Nu Metal</p></li></a></br>
+            <a href="#"><li><p class="publi-1 text-center">Rock/Metal Progresivo</p></li></a></br>
+            <a href="#"><li><p class="publi-1 text-center">Puro Instrumental</p></li></a></br>
+            <a href="#"><li><p class="publi-1 text-center">Groove</p></li></a></br>
+            <a href="#"><li><p class="publi-1 text-center">Nu Metal</p></li></a></br>
+            <a href="#"><li><p class="publi-1 text-center">Death Metal</p></li></a></br>
+            <a href="#"><li><p class="publi-1 text-center">Djent</p></li></a></br>
+            <a href="#"><li><p class="publi-1 text-center">Black Metal</p></li></a>
+          </ul>
+    </div>
+    </div>
+</div>
   </body>
 </html>
