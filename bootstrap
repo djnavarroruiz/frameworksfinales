@@ -114,6 +114,23 @@
           </ul>
     </div>
     </div>
+      <div class="music-row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 music-column">
+        <header class="titulo-text text-center">Dream Theater revela nuevo single previo al lanzamiento de <em>Distance Over Time</em></header>
+        <div class="col-xs-3 col-sm-4 col-md-4 col-lg-4"><img class="img-music" src="img/dreamtheater.jpg"></div>
+        <div class="col-xs-9 col-sm-8 col-md-8 col-lg-8">
+        <p class="publi-1 justify">El conjunto estadounidense acaba de publicar un segundo single luego de su último LP conceptual <em>Astonishing</em> (2016). Se trata de <em>Fall into the Light</em> liberado en enero de 2019, un track que sugiere un retorno de la banda a su estilo más clásico, pero con un toque también de metal puro, como lo que se escuchó alguna vez en discos como <em>Six Degrees of Inner Turbulence</em> (2003). El sencillo cuenta ya con más de quinientas mil reproducciones en Spotify y más de un millón de visitas en YouTube en su versión animada. Este track se enmarca en lo que será el lanzamiento de su décimocuarto álbum de estudio <em>Distance Over Time</em>, anunciado para el 22 de febrero próximo</p>
+      </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+          <p class="publi-1">A continuación, el video oficial extraido del canal de la discográfica <em>Inside Out Music</em>.</p>
+          <video class="responsive-video dreamtheater" controls>
+  <source src="video/dreamtheater.mp4" type="video/mp4"></video>
+        </div>
+        <div class="form-group col-xs-12 col-sm-12 col-md-12 col-lg-12">
+          <label for="Comentario"><p class="publi-1">Puedes dejar aquí tus comentarios</p></label>
+          <textarea name="comentario" rows="2" cols="40" class="form-control"></textarea>
+         </div>
+    </div>
 </div>
   </body>
 </html>
