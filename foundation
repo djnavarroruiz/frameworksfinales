@@ -29,6 +29,29 @@
         </div>
       </div>
      </div>
+     
+       <div class="small-12 columns small-order-3">
+        <div class="row large-uncollapse">
+          <div class="large-4 medium-5 columns show-for-medium">
+            <div class="callout">
+              <h6>¿Cómo armar un buen asado?</h6>
+              <p class="show-for-sr">
+                A continuación hay un formulario para hacer búsquedas avanzadas.
+              </p>
+              <form>
+                <div class="row column">
+                  <label>Tipo de carne:
+                    <select>
+                      <option>Vacuno</option>
+                      <option>Cerdo</option>
+                      <option>Pollo</option>
+                      <option>Pavo</option>
+                      <option>Pescado</option>
+                      <option>Cecinas</option>
+                      <option>Sub-productos</option>
+                    </select>
+                  </label>
+                </div>
 
 
     <script src="js/jquery.js"></script>
