@@ -131,6 +131,67 @@
           <textarea name="comentario" rows="2" cols="40" class="form-control"></textarea>
          </div>
     </div>
-</div>
+          <div class='row'>
+        <div class='col-lg-6 col-md-6 titulo-rock left-column right-column'>
+          <header class='titulo-text text-center'>¿Quiénes somos?</header>
+        </div>
+        <div class='col-lg-6 col-md-6 col-sm-12 col-xs-12 titulo-rock'>
+          <header class='titulo-text text-center'>Regístrate para recibir noticias de nuestro sitio</header>
+        </div>
+      </div>
+      <div class='row'>
+        <div class='col-lg-6 col-md-6 music-row left-column right-column text-justify'>
+          <p class='services-text'>Un equipo de calidad para que no te pierdas de nada:</p>
+          <dl class='dl-horizontal'>
+            <dt class='services-text'>David Navarro</dt>
+            <dd class='services-text'>Editor General, periodista de la Universidad de Chile. Manager de la banda chilena de rock fusión Clan Siciliano. Desde 2013 jurado de la competición nacional Talento Crudo</dd>
+          </dl>
+          <dl class='dl-horizontal'>
+            <dt class='services-text'>Gonzalo Villagra</dt>
+            <dd class='services-text'>Tecladista de la banda chilena Humanos Negroides (ganadores Talento Crudo 2013) actual Banda Nómade</dd>
+          </dl>
+          <dl class='dl-horizontal'>
+            <dt class='services-text'>Pablo Nadinic</dt>
+            <dd class='services-text'>Vocalista y guitarrista de la banda chilena de djent Éntomos, ganadores Premios Escuchar 2017 por su trabajo debut Disidencia</dd>
+          </dl>
+        </div>
+        <div class='col-lg-6 col-md-6 col-sm-12 col-xs-12 music-row'>
+          <form action="" role="form">
+            <fieldset>
+              <div class="form-group text-center">
+                <legend class="user_data">Datos Personales</legend>
+                  <input type="text" name="Nombre" id="Nombre" placeholder="Nombre Completo" class="form-control">
+                  <input type="email" name="email" id="Email" placeholder="Correo Electrónico" class="form-control">
+                  <input type="number" name="Telefono" id="Telefono" placeholder="Teléfono" class="form-control">
+                  <input type="text" name="Ciudad" id="Ciudad" placeholder="Ciudad"class="form-control">
+                </div>
+                <div class="form-group text-center">
+                  <legend class="user_data">Elige tus categorías favoritas</legend>
+                  <input type="checkbox" name="Rock" id="Rock">
+                  <label for="Rock" class="label-class">Rock</label>
+                  <input type="checkbox" name="Metal" id="Metal">
+                  <label for="Metal" class="label-class">Metal</label>
+                  <input type="checkbox" name="Progresivo" id="Progresivo">
+                  <label for="Progresivo" class="label-class">Progresivo</label>
+                  <input type="checkbox" name="Instrumental" id="Instrumental">
+                  <label for="Instrumental" class="label-class">Instrumental</label>
+                  <input type="checkbox" name="Djent" id="Djent">
+                  <label for="Djent" class="label-class">Djent</label>
+              </div>
+              <div class="form-group text-center">
+                <legend class="user_data">¿Desea recibir correo de nuestro sitio?</legend>
+                <input type="radio" name="Sí" id="Sí">
+                <label for="Sí" class="label-class">Sí</label>
+                <input type="radio" name="No" id="No">
+                <label for="No" class="label-class">No</label>
+              </div>
+              <div class="form-group text-center x-auto">
+                <input color="white" type="button" name="boton" value="Guardar" class="x-auto btn-save btn-primary form-control text-center">
+              </div>
+            </fieldset>
+          </form>
+        </div>
+      </div>
+    </div>
   </body>
 </html>
