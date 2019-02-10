@@ -123,6 +123,7 @@
       </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
           <p class="publi-1">A continuación, el video oficial extraido del canal de la discográfica <em>Inside Out Music</em>.</p>
+          <p class="pucli-1">N de R: Dream Theater además acaba de liberar hace unos días otro single de su nuevo álbum, lleva como título <em>Paralyzed</em></p>
           <video class="responsive-video dreamtheater" controls>
   <source src="video/dreamtheater.mp4" type="video/mp4"></video>
         </div>
