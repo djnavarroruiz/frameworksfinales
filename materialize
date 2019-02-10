@@ -35,6 +35,33 @@
            </div>
           </div>
         </div>
+          <div class="s2 m2 l2 col transparent columna-redes push-s10">
+      <div class="s12 m12 l12 col transparent">
+        <a href="#">
+          <img src="img/ytLogo.png" alt="YouTube" class="circle responsive-img rrss">
+        </a>
+      </div>
+      <div class="s12 m12 l12 col transparent">
+        <a href="#">
+          <img src="img/igLogo.png" alt="instagram" class="circle responsive-img rrss">
+        </a>
+      </div>
+      <div class="s12 m12 l12 col transparent">
+        <a href="#">
+          <img src="img/fbLogo.png" alt="Facebook" class="circle responsive-img rrss">
+        </a>
+      </div>
+      <div class="s12 m12 l12 col transparent">
+        <a href="#">
+          <img src="img/twLogo.png" alt="Twitter" class="circle responsive-img rrss">
+        </a>
+      </div>
+      <div class="s12 m12 l12 col transparent">
+        <a href="#">
+          <img src="img/ptLogo.png" alt="Pinterest" class="circle responsive-img rrss">
+        </a>
+      </div>
+    </div>
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script type="text/javascript" src="js/materialize.min.js"></script>
 </body>
