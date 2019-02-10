@@ -1,0 +1,23 @@
+.logo-img{
+  width: 30%;
+}
+
+img{
+  max-height: 189px;
+}
+
+div.row.secondary.callout.text-center{
+  min-height: 242px;
+}
+
+.logo-title {
+  color: #ffffff;
+}
+
+.parrilla{
+  background-color: #d50000;
+}
+
+.step{
+  color: #ffffff;
+}
