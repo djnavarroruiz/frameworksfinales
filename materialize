@@ -12,6 +12,29 @@
   <title>Espíritu de Viaje</title>
 </head>
 <body class="viaje-body">
+  <div class="row">
+    <div class="s12 col light-blue darken-4 barra-superior">
+      <div class="row">
+        <div class="l2 col transparent hide-on-med-and-down">
+        <img src="img/logo.jpg" class="responsive-img logo">
+       </div>
+      <div class="l6 m6 s6 col transparent">
+      <a href="#"><h4 class="titulo"><em>Espíritu Libre</em></h4></a>
+        <h6 class="titulo">Tu comunidad mundial de viajes</h6>
+        </div>
+        <div class="l4 m6 s6 col transparent">
+          <div class="l4 m4 s4 col transparent">
+            <a href="#"><p class="titulo">CHILE</p></a>
+          </div>
+            <div class="l4 m4 s4 col transparent">
+              <a href="#"><p class="titulo">MUNDO</p></a>
+            </div>
+              <div class="l4 m4 s4 col transparent">
+                <a href="#"><p class="titulo">CONTACTO</p></a>
+              </div>
+           </div>
+          </div>
+        </div>
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script type="text/javascript" src="js/materialize.min.js"></script>
 </body>
