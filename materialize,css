@@ -10,3 +10,23 @@
 .titulo{
   color: #FFFFFF;
 }
+.barra-superior{
+  min-height: 4rem;
+}
+
+.logo{
+  width: 170px;
+  margin-top: 2rem;
+  float: left;
+  height: 90px;
+  margin-bottom: 1rem;
+}
+
+div[class*="columna"]{
+  min-height: 50rem;
+}
+
+div[class*="bloque"]{
+  height: 25rem;
+  overflow: scroll;
+}
