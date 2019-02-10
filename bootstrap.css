@@ -1,0 +1,196 @@
+.rock-body {
+  background: url(../img/rock_fondo.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.navbar-inverse {
+  background-color: #212121;
+  min-height: 10%;
+  border: none;
+}
+
+.principal{
+  background-color: #424242;
+}
+
+.barra{
+  color: #ffffff;
+}
+
+.logo-img {
+  width: 100px;
+}
+
+.container-fluid {
+  margin-top: 73px;
+}
+
+.secundaria {
+  background: url(../img/rock_fondo.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  min-height: 500px;
+  border-radius: 0px !important;
+  margin-bottom: 0px;
+}
+
+.secundaria-img {
+  width: 220px;
+  margin-top: 20px;
+}
+
+.secundaria-text {
+  font-size: 16px;
+  margin-top: 20px;
+  color: #FFFFFF;
+}
+
+.redes-sociales {
+  margin-top: 30px;
+  float: right;
+}
+
+.img-social {
+  width: 40px;
+  height: 40px;
+}
+
+.img-music {
+  height: 200px;
+  width: 100%;
+  padding: 6px;
+}
+
+.dreamtheater{
+width: 642px;
+height: 361px;
+}
+
+.rock-title {
+  color: #FFFFFF;
+}
+
+.welcome-title {
+  color: #FFFFFF;
+  margin-right: 10px;
+}
+
+.titulo-rock {
+  min-height: 35px;
+  background-color: #424242;
+}
+
+.titulo-text {
+  font-size: 18px;
+  font-weight: bolder;
+  color: #FFFFFF;
+  padding: 10px;
+}
+
+.music-row {
+  background: #37474f;
+  min-height: 350px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.music-column {
+  margin-top: 5px;
+  min-height: 330px;
+  border: 1px outset #FFFFFF;
+}
+.left-column {
+  border-right: 1px outset #FFFFFF;
+}
+
+.publi-1{
+  color: #FFFFFF;
+}
+
+.row-centered {
+  text-align:center;
+}
+
+.services-text {
+  color: #FFFFFF;
+  margin-top: 13px;
+}
+
+.col-centered {
+  display:inline-block;
+  float:none;
+}
+
+@media (max-width: 1000px) {
+  h2 {
+    font-size: 22px;
+  }
+
+  .titulo-text {
+    font-size: 15px;
+  }
+
+  .right-column {
+    display: none;
+  }
+
+  .music-row {
+    padding-left: 0px;
+    padding-right: 0px;
+    min-height: 250px;;
+  }
+
+  .container-fluid{
+    margin-top: 60px;
+  }
+
+  .music-column {
+    min-height: 230px;
+  }
+
+  .secudaria {
+    min-height: 400px;
+  }
+
+  .secundaria-img {
+    width: 150px;
+    margin-top: 20px;
+  }
+
+  .dreamtheater{
+  width: 260px;
+  height: 180px;
+  }
+
+  .img-music {
+    height: 200px;
+    width: 100%;
+    padding: 6px;
+    margin-top: 22px;
+  }
+}
+
+.user_data{
+  margin-top: 10px;
+  font-size: 18px;
+  color: white;
+}
+
+.label-class{
+  color: white;
+  margin-right: 10px;
+  font-size: 13px;
+}
+
+.btn-save{
+  width: 40%;
+  color: white;
+  opacity: 0.95;
+  background-color: blue;
+  margin: 0 auto;
+}
