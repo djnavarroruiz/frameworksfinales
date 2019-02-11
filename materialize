@@ -62,6 +62,107 @@
         </a>
       </div>
     </div>
+        <div class="s10 m10 l10 col transparent columna-principal pull-s2 z-depth-1">
+      <div class="row">
+        <div class="s12 m12 l4 col transparent columna-publicaciones">
+
+          <div class="contenedor-chile card light-blue darken-4 z-depth-5">
+            <div class="card-content light-blue darken-4 white-text">
+              <span class="card-title activator">Te mostramos Chile <i class="material-icons right">more_vert</i></span>
+              <p>
+                David recorre la Región de Coquimbo
+              </p>
+            </div>
+            <div class="card-image">
+              <img src="img/piscoelqui.jpg" class="responsive-img">
+            </div>
+            <div class="card-reveal light-blue darken-4 white-text">
+              <span class="card-title">Pisco Elqui<i class="material-icons right">close</i></span>
+              <p>Es una localidad de la región de Coquimbo distante 100 kilómetros de la ciudad de La Serena. En este lugar se sigue fabricando de manera artesanal y a baja escala el tradicional pisco <em>Mistral</em>. Luego del tour por la fábrica se ofrece una degustación del producto. Sin duda un destino imperdible</p>
+              <video src="media/piscoelqui.mp4" autoplay controls class="responsive-video media-element"></video>
+            </div>
+          </div>
+
+          <div class="contenedor-chile card light-blue darken-4">
+            <div class="card-content light-blue darken-4 white-text">
+              <span class="card-title activator">Norte Grande<i class="material-icons right">more_vert</i></span>
+              <p>
+                De paso por la Región de Tarapacá
+              </p>
+              <blockquote>
+               <img src="img/iquique1.jpg" class="responsive-img">
+              </blockquote>
+            </div>
+            <div class="card-reveal light-blue darken-4 white-text">
+              <span class="card-title"><i class="material-icons right">close</i></span>
+              <p class="flow-text">
+               Michael "Red" Seguel nos enseña su bitácora por las ciudades de Iquique y Alto Hospicio. Sigue todas sus aventuras en el <a href="#">siguiente enlace</a>
+              </p>
+              <img src="img/iquique2.jpg" class="responsive-img">
+            </div>
+          </div>
+
+          <div class="contenedor-chile card light-blue darken-4 z-depth-5">
+            <div class="card-content light-blue darken-4 white-text">
+              <span class="card-title activator">Ver más <i class="material-icons right">more_vert</i></span>
+              <p>
+                Sigue las travesías de nuestros amigos
+              </p>
+            </div>
+            <div class="card-reveal light-blue darken-4 white-text">
+              <span class="card-title">Acá puedes ver las publicaciones anteriores<i class="material-icons right">close</i></span>
+              <a href="#"><img src="img/viajes.jpeg" class="responsive-img">
+            </div>
+          </div>
+            <div class="contenedor-write-chile card light-blue lighten-3">
+            <div class="card-content">
+              <span>Cuéntanos tu experiencia</span>
+              <form>
+                <textarea id="publicacion-texto"></textarea>
+                <a href="#" class="waves-effect btn-floating light-blue white-text"><i class="small material-icons">create</i></a>
+                <a href="#" class="waves-effect btn-floating light-blue white-text"><i class="small material-icons">mic</i></a>
+                <button class="btn-flat waves-effect waves-light light-blue white-text right hide-on-small-only" type="submit" name="action"><i class="material-icons right">send</i></button>
+                <button class="btn-floating waves-effect waves-light light-blue white-text right hide-on-med-and-up" type="submit" name="action"><i class="material-icons right">send</i></button>
+              </form>
+            </div>
+          </div>
+        </div>
+
+        <div class="l5 offset-l2 col transparent columna-travel hide-on-med-and-down">
+          <div class="contenedor-extranjero light-blue darken-4">
+            <h5 class="center-align white-text">Fuera de las fronteras chilenas</h5>
+            <p class="truncate white-text">
+              Seba y Fer nos cuentan de su viaje a Argentina
+            </p>
+            <a href="#"><img src="img/mendoza.jpg" class="responsive-img"/></a>
+            <p class="truncate white-text">
+              Karina nos enseña parte de sus andanzas por Nueva Zelanda
+            </p>
+            <a href="#"><img src="img/auckland.jpg" class="responsive-img"/></a>
+            <p class="truncate white-text">
+              Alexis nos sorprende con increíbles postales desde Australia
+            </p>
+            <a href="#"><img src="img/melbourne.jpg" class="responsive-img"/></a>
+          </div>
+        </div>
+      </div>
+    </div>
+<div class="l1 col transparent columna-news hide-on-med-and-down">
+</div>
+
+    </div>
+    <div class="fixed-action-btn hide-on-small-only" style="bottom: 45px; right: 90vw;">
+      <a class="btn-floating btn-large red">
+        <i class="large material-icons light-blue darken-4">power_settings_new</i>
+      </a>
+      <ul>
+        <li><a class="btn-floating light-blue darken-4"><i class="material-icons">share</i></a></li>
+        <li><a class="btn-floating light-blue darken-4"><i class="material-icons">rss_feed</i></a></li>
+        <li><a class="btn-floating light-blue darken-4"><i class="material-icons">notifications_active</i></a></li>
+        <li><a class="btn-floating light-blue darken-4"><i class="material-icons">volume_off</i></a></li>
+      </ul>
+    </div>
+  </div>
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script type="text/javascript" src="js/materialize.min.js"></script>
 </body>
