@@ -52,8 +52,161 @@
                     </select>
                   </label>
                 </div>
+  <div class="row column">
+                  <fieldset>
+                    <legend>Acompañamiento:</legend>
+                    <input type="radio" name="acompañamiento" value="Red" id="acompañamiento"><label for="acompañamiento">Pastas</label>
+                    <input type="radio" name="acompañamiento" value="Red" id="acompañamiento"><label for="acompañamiento">Arroz</label>
+                    <input type="radio" name="acompañamiento" value="Red" id="acompañamiento"><label for="acompañamiento">Patatas</label>
+                  </fieldset>
+                </div>
+                <div class="row column text-center">
+                  <label>¿Ensaladas?</label>
+                  <div class="switch medium">
+                    <input class="switch-input" id="ensaladas-switch" type="checkbox">
+                    <label class="switch-paddle" for="ensaladas-switch">
+                      <span class="switch-active" aria-hidden="true">Si</span>
+                      <span class="switch-inactive" aria-hidden="true">No</span>
+                    </label>
+                  </div>
+                </div>
+                <div class="row column text-center">
+                  <hr>
+                  <button type="submit" name="enviar" class="button">Buscar <i class="step fi-magnifying-glass"></i></button>
+                   <hr>
+              <div class=" row column text-center">
 
+                <h6>¿Qué quieres cocinar hoy?</h6>
 
+                <div class="row">
+
+                  <div class="columns text-center">
+                    <div class="row column text-center">
+                  <a href="#"><img src="img/parrilla2.jpg" alt="Parrilla 2" class="thumbnail"/></a>
+                </div>
+              </div>
+
+                 <div class="columns text-center">
+                   <div class="row column text-center">
+                 <a href="#"><img src="img/parrilla3.jpg" alt="Parrilla 3" class="thumbnail"/></a>
+               </div>
+             </div>
+
+               <div class="columns text-center">
+                 <div class="row column text-center">
+                <a href="#"><img src="img/parrilla4.jpg" alt="Parrilla 4" class="thumbnail"/></a>
+               </div>
+            </div>
+
+          </div>
+
+        <div class="row">
+
+           <div class="columns text-center">
+             <div class="row column text-center">
+               <a href="#"><img src="img/parrilla5.jpg" alt="Parrilla 5" class="thumbnail"/></a>
+             </div>
+           </div>
+
+         <div class="columns text-center">
+          <div class="row column text-center">
+           <a href="#"><img src="img/parrilla6.jpg" alt="Parrilla 6" class="thumbnail"/></a>
+         </div>
+        </div>
+
+     <div class="columns text-center">
+       <div class="row column text-center">
+         <a href="#"><img src="img/parrilla7.jpg" alt="Parrilla 7" class="thumbnail"/></a>
+        </div>
+       </div>
+     </div>
+            </div>
+                 </div>
+
+                 <div class=" row column text-center">
+                   <h5>Revisa lo más buscado</h5>
+                   <hr>
+              <div class="columns text-center">
+              <a href="#"><h6>Capítulo 3 de "La Hora de Don Rasec"</h6></a>
+              </div>
+              <hr>
+              <div class="columns text-center">
+              <a href="#"><h6>El Secreto del Ché: Maxi García, especialista en el Tercer Tiempo</h6></a>
+              </div>
+              <hr>
+              <div class="columns text-center">
+              <a href="#"><h6>Camilo Valdés te asesora con lo mejor en vinos para acompañar la parrilla</h6></a>
+              </div>
+              <hr>
+              <div class="columns text-center">
+              <a href="#"><h6>¿Vegetales a la parrilla? También se puede.</h6></a>
+              </div>
+              <hr>
+              <div class="columns text-center">
+              <a href="#"><h6>Lo básico: Cómo armar un buen fuego</h6></a>
+              </div>
+              <hr>
+              <div class="columns text-center">
+              <a href="#"><h6>Limpieza de parrilla. Fundamental para seguir disfrutando</h6></a>
+              </div>
+            </div>
+
+              </form>
+            </div>
+          </div>
+
+          <div class="large-8 columns">
+            <div class="callout">
+              <h3>Recién salido de las brasas</h3>
+              <hr>
+
+              <div class="row large-uncollapse">
+
+                <div class="large-12 small-12 medium-12 columns">
+                  <div class="row primary callout text-center">
+                    <div class="large-4 medium-4 small-3 columns"><img src="img/parrilla8.jpg" alt="Parrilla 8" class="thumbnail"/>
+                    </div>
+                    <div class="large-8 medium-8 small-9 columns align-right">
+                    <h5>¡Gánate un asado para ti y cuatro personas!</h5>
+                    <p> En Grilla Que Grilla queremos premiar tu fidelidad. Si te gustan los asados pero quieres que te atiendan junto a un grupo de familiares y/o amigos, esta es tu oportunidad. Solo debes llenar nuestro formulario y ya estarás participando en el sorteo de un asado para cinco personas en vuestro hogar o bien en las dependencias de alguno de nuestros locales adheridos. Puedes inscribirte hasta el 28 de febrero a las 23:59. Sorteo se realizará el lunes 4 de marzo. Más detalles en el link a continuación ->
+                      <a href="#">Ver más <i class="step fi-plus"></i></a>
+                    </p>
+                  </div>
+                  <label for="Comentario"><p class="publi-1">Puedes dejar aquí tus comentarios</p></label>
+                  <textarea name="comentario" rows="2" cols="40" class="form-control"></textarea>
+                </div>
+
+                <div class="large-12 small-12 medium-12 columns">
+                  <div class="row secondary callout text-center">
+                    <div class="large-4 medium-4 small-3 columns"><img src="img/parrilla1.jpg" alt="Parrilla 1" class="thumbnail"/>
+                    </div>
+                    <div class="large-8 medium-8 small-9 columns align-right">
+                    <h5>Lo que nunca debes hacer en la parrilla</h5>
+                    <p> Queremos que te luzcas con tus familiares y amigos. Pero para ello debes ir con todas las armas necesarias. Además de un buen cuchillo y un buen tenedor, aquí te entregamos un par de tips para que tu expedición frente a las brasas sea todo un éxito
+                      <a href="#">Ver más <i class="step fi-plus"></i></a>
+                    </p>
+                  </div>
+                  <label for="Comentario"><p class="publi-1">Puedes dejar aquí tus comentarios</p></label>
+                  <textarea name="comentario" rows="2" cols="40" class="form-control"></textarea>
+                </div>
+
+         <div class="large-12 small-12 medium-12 columns">
+           <div class="row primary callout text-center">
+             <div class="large-4 medium-4 small-3 columns"><img src="img/donrasec.jpg" alt="donrasec" class="thumbnail"/>
+          </div>
+          <div class="large-8 medium-8 small-9 columns align-right">
+             <h5>No te pierdas "La Hora de Don Rasec"</h5>
+               <p> César Ibarra Latorre (aka "Don Rasec") Te sorprende cada semana con una demostración en vivo de toda su destreza en la parrilla. Visítalo todos los sábados en su videoblog semanal que puedes revisar aquí. Exclusivo de <em>Grilla Que Grilla</em>
+              <a href="#">Ver más <i class="step fi-plus"></i></a>
+             </p>
+            </div>
+           <label for="Comentario"><p class="publi-1">Puedes dejar aquí tus comentarios</p></label>
+             <textarea name="comentario" rows="2" cols="40" class="form-control"></textarea>
+              </div>
+             </div>
+          </div>
+       </div>
+    </div>
     <script src="js/jquery.js"></script>
     <script src="js/what-input.js"></script>
     <script src="js/foundation.min.js" charset="utf-8"></script>
