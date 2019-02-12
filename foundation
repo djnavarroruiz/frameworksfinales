@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="foundation-icons/foundation-icons.css" media="screen" charset="utf-8">
     <link rel="stylesheet" href="css/home.css" media="screen" charset="utf-8">
   </head>
-  <body class="parrilla">
+  <body class="parrilla-body">
     <div class="row">
       <div class="small-12 columns small-order-1">
         <div class="row">
@@ -28,9 +28,8 @@
           </div>
         </div>
       </div>
-     </div>
-     
-       <div class="small-12 columns small-order-3">
+
+      <div class="small-12 columns small-order-3">
         <div class="row large-uncollapse">
           <div class="large-4 medium-5 columns show-for-medium">
             <div class="callout">
@@ -52,7 +51,8 @@
                     </select>
                   </label>
                 </div>
-  <div class="row column">
+
+                <div class="row column">
                   <fieldset>
                     <legend>Acompañamiento:</legend>
                     <input type="radio" name="acompañamiento" value="Red" id="acompañamiento"><label for="acompañamiento">Pastas</label>
@@ -202,11 +202,15 @@
             </div>
            <label for="Comentario"><p class="publi-1">Puedes dejar aquí tus comentarios</p></label>
              <textarea name="comentario" rows="2" cols="40" class="form-control"></textarea>
+           </div>
+
+                </div>
+                </div>
               </div>
-             </div>
-          </div>
-       </div>
+
     </div>
+
+
     <script src="js/jquery.js"></script>
     <script src="js/what-input.js"></script>
     <script src="js/foundation.min.js" charset="utf-8"></script>
